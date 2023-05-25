@@ -26,7 +26,10 @@ padding-left: 5%;
 .Orange-Text{
     color: orange;
 }
-
+.Half-Width p{
+    padding-right: 100px;
+    text-align: justify;
+}
 .Half-Width img{
     width: 80%;
 }
@@ -70,7 +73,7 @@ font-weight: 700;
 
 .Experience-Box{
     width: 40%;
-    margin: 2% 5%;
+    margin: 4% 5%;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10px;
