@@ -13,7 +13,7 @@ padding-left: 5%;
 }
 #Section-One{
     margin-bottom: 150px;
-    display: flex;
+    
 
 
 }
@@ -41,7 +41,7 @@ font-weight: 700;
 }
 #Section-Two{
 
-    display: flex;
+   
 
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
@@ -57,3 +57,12 @@ font-weight: 700;
     color: White;
     font-weight: 700;
     }
+
+
+#Experience-Text{
+    font-size: 48px;
+}
+
+.Flexible-Container{
+   display: flex; 
+}
