@@ -66,3 +66,44 @@ font-weight: 700;
 .Flexible-Container{
    display: flex; 
 }
+
+
+.Experience-Box{
+    width: 40%;
+    margin: 2% 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+   
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+.Experience-Area-Text{
+    font-size: 40px;
+
+
+}
+
+
+
+#Experience-Area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#Experience-Box-One{
+    border-left: 7px solid;
+    border-image: linear-gradient(Blue, rgb(39, 179, 226));
+    border-image-slice: 1;
+
+}
+#Experience-Box-Two{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+}
+#Footer-One{
+
+    text-align: center;
+}
