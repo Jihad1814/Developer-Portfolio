@@ -1,0 +1,19 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.Half-Width{
+width: 50%;
+
+}
+#Welcome-One{
+    font-size: 50px;
+}
+#Welcome-Two{
+    font-size: 50px;
+}
+.Orange-Text{
+    color: orange;
+}
